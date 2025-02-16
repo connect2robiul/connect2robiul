@@ -29,3 +29,7 @@ I’m actively seeking partnerships with:
 
 --- 
 **Let’s build the future of intelligent systems—one neuron (or node) at a time!** 🌟  
+
+
+
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=connect2robiul&count_private=true&layout=compact&theme=github_dark)

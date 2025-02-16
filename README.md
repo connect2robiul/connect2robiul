@@ -2,7 +2,7 @@
 
 
 🔭 **Focus**: Bridging AI/ML with neuroscience to decode brain activity and build interpretable models.  
-📫 **Reach me**: [Email](mailto:r_islam@live.com) | [LinkedIn](https://www.linkedin.com/in/robiul-islam-XXXXX) | [Website](https://linktr.ee/connect2robiul)  
+📫 **Reach me**: [Email](mailto:r_islam@live.com) | [Website](https://linktr.ee/connect2robiul)  
 
 ---
 
